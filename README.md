@@ -10,10 +10,10 @@ Developed based on https://codeburst.io/build-a-chat-app-with-sentiment-analysis
 - Express with Axios
 
 # Create .env with your pusher credentials (first u need create a login at pusher and create an app)
-https://dashboard.pusher.com
-PUSHER_APP_ID=YOUR_APP_ID
-PUSHER_APP_KEY=YOUR_APP_KEY
-PUSHER_APP_SECRET=YOUR_APP_SECRET
+https://dashboard.pusher.com<br />
+PUSHER_APP_ID=YOUR_APP_ID<br />
+PUSHER_APP_KEY=YOUR_APP_KEY<br />
+PUSHER_APP_SECRET=YOUR_APP_SECRET<br />
 PUSHER_APP_CLUSTER=YOUR_APP_CLUSTER
 
 # Run for dev
